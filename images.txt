@@ -11,3 +11,4 @@ nginx
 #ubuntu/squid:latest
 mysql:5.7
 bigbrother666sh/wiseflow
+python:3.10-slim
